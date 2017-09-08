@@ -1,0 +1,105 @@
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.apk
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android-Signed.apk
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FormsViewGroup.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\FromTtoA.Android.csprojResolveAssemblyReference.cache
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\FromTtoA.Android.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\FromTtoA.Android.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\bin\FromTtoA.Android.apk
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\icon.png
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\values\styles.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\rougelogo.png
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\dr1.png
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\R.cs.flag
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\uploadflags.txt
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\FromTtoA.Android.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\FromTtoA.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.apk
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android-Signed.apk
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\FromTtoA.Android.csprojResolveAssemblyReference.cache
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\FromTtoA.Android.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\FromTtoA.Android.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\bin\FromTtoA.Android.apk
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\icon.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\values\styles.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\rougelogo.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\dr1.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\R.cs.flag
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\uploadflags.txt
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\res\drawable\cihazdoc.png
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\bin\Debug\FromTtoA.Android.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\FromTtoA.Android.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\FromTtoA.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

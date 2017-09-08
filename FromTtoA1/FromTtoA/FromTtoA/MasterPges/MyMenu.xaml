@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FromTtoA.MasterPges.MyMenu" Title="Principal Menu">
+
+            <ContentPage.Content>
+                <StackLayout Margin="5,30,5,5" Padding="10" BackgroundColor="LightPink">
+                    
+                    <Button Text="Departments" Clicked="DeprtmntsView" HeightRequest="60"></Button>
+                    <Button Text="Doctors" Clicked="DctorsView" HeightRequest="60"></Button>
+                   
+                </StackLayout>
+            </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,51 @@
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\FromTtoA.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\FromTtoA.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.csprojResolveAssemblyReference.cache
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MainPage.xaml.g.cs
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.App.xaml.g.cs
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.SignInPage.xaml.g.cs
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.RegistrationPage.xaml.g.cs
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.dll
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.pdb
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.Patient1.xaml.g.cs
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.Doctor1.xaml.g.cs
+c:\users\leila nishimwe\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.MyMenu.xaml.g.cs
+C:\Users\LEILA NISHIMWE\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.EssaieDetailPage.xaml.g.cs
+C:\Users\LEILA NISHIMWE\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.ListViewsPges.DepartmentsListView1.xaml.g.cs
+C:\Users\LEILA NISHIMWE\documents\visual studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.ListViewsPges.DocListView2.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Documents\Visual Studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.PatientFirstpge.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Documents\Visual Studio 2017\Projects\FromTtoA\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.DocFirstPge.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MainPage.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.App.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.SignInPage.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.RegistrationPage.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.Patient1.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.Doctor1.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.MyMenu.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.EssaieDetailPage.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.ListViewsPges.DepartmentsListView1.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.ListViewsPges.DocListView2.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.MasterPges.PatientFirstpge.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.Models.DocDeprt.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.Models.DocLogin.xaml.g.cs
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\FromTtoA.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\FromTtoA.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\LEILA NISHIMWE\Downloads\FromTtoA1\FromTtoA\FromTtoA\obj\Debug\FromTtoA.csprojResolveAssemblyReference.cache

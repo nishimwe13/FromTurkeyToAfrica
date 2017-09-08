@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FromTtoA.MasterPges.EssaieDetailPage">
+
+    <ContentPage.Content>
+
+
+        <StackLayout Margin="5,30,5,5" Padding="30">
+        
+
+            <Button Text="Patient" Clicked="PaClicked" HeightRequest="60"></Button>
+            <Button Text="Only doctors" Clicked="DoClicked" HeightRequest="60"></Button>
+            <Button Text="Visitors" HeightRequest="60"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

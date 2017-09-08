@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FromTtoA.SignInPage" Title="Welcome">
+
+    <Grid x:Name="MainGrid" BackgroundColor="#323542" Padding ="30" 
+          RowSpacing="0" ColumnSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackLayout Grid.Row="0" Grid.Column="0">
+            <StackLayout.Padding>
+                <OnPlatform x:TypeArguments="Thickness" iOS="0,20,0,0"/>
+            </StackLayout.Padding>
+         
+                <Image Source="rougeLogo.png" HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"/>
+
+        </StackLayout>
+
+        <StackLayout Grid.Row="1" Grid.Column="0"
+                     Padding="0,10,0,10">
+            <StackLayout Spacing="10">
+                <Entry Placeholder="username" PlaceholderColor="#6c6e77"
+                   BackgroundColor="#474a55" TextColor="White" HeightRequest="50">
+                </Entry>
+                <Entry IsPassword="True" Placeholder="Password" PlaceholderColor="#6c6e77"
+                   BackgroundColor="#474a55" TextColor="White" HeightRequest="50">
+                </Entry>
+            </StackLayout>
+
+            <StackLayout Padding="0,10,0,10" Spacing="10">
+                <Button Text="Sign in" Clicked="Button_Clicked" BackgroundColor="#0bd38a"
+                    BorderRadius="1" BorderColor="Transparent" TextColor="White" 
+                    HeightRequest="60" FontAttributes="Bold">
+                </Button>
+                <StackLayout  Orientation="Horizontal" VerticalOptions="End">
+                    <Button Text="Forgot password?" TextColor="Blue"
+                       FontSize="Micro" HorizontalOptions="StartAndExpand" HeightRequest="40">
+                    </Button>
+                    <Button Text="Sign Up"  Clicked="SignUpEvnt" TextColor="Blue"
+                       FontSize="Micro" HorizontalOptions="EndAndExpand" HeightRequest="40">
+                    </Button>
+
+                </StackLayout>
+            </StackLayout>
+
+        </StackLayout>
+    </Grid>
+</ContentPage>

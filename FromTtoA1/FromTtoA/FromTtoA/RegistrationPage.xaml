@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FromTtoA.RegistrationPage" Title="Make Registration">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
+            <StackLayout Orientation="Horizontal">
+                <Entry Placeholder="Your name Please"></Entry>
+                <Entry Placeholder="Your surname Please"></Entry>
+            </StackLayout>
+
+            <Label Text="Date Of Birth"></Label>
+            <DatePicker></DatePicker>
+            <StackLayout Orientation="Horizontal">
+                <Entry Placeholder="Country"></Entry>
+                <Entry Placeholder="City"></Entry>
+            </StackLayout>
+            <StackLayout >
+                <Entry Placeholder="Sex"></Entry>
+                <Entry Placeholder="username"></Entry>
+                <Entry Placeholder="password" IsPassword="True"></Entry>
+                <Entry Placeholder="Confirm your username" IsPassword="True"></Entry>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Save password"></Label>
+                <Switch IsToggled="False"></Switch>
+            </StackLayout>
+            <Button Text="Sign Up"></Button>
+            <Label Text="Have already account? sign in" TextColor="Blue"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

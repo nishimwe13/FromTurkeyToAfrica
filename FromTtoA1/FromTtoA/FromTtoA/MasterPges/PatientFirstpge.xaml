@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FromTtoA.MasterPges.PatientFirstpge">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Picker Title="Click to select the department" SelectedIndexChanged="pickerOnChanged" 
+                    TextColor="Red" BackgroundColor="Aqua">
+                <Picker.Items>
+                    <x:String>Internal Medicine</x:String>
+                    <x:String>Pediatric</x:String>
+                    <x:String>Gynecolgy</x:String>
+                    <x:String>Pulmonology</x:String>
+                    <x:String>Cardiology</x:String>
+                </Picker.Items>
+            </Picker>
+            <Label Text="Enter your symptoms down" TextColor="Red" HorizontalOptions="Center" />
+            <Editor FontAttributes="Bold" FontFamily="Arial" FontSize="14"
+                    BackgroundColor="White" HeightRequest="300" ></Editor>
+            <Button Text="Save" HeightRequest="60" HorizontalOptions="Center"></Button>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
